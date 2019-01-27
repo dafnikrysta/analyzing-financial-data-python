@@ -166,7 +166,7 @@ As established, clients whose loan status was either ‘A’ or ‘C’ were cla
 
 * After analysis, we see that the most contributing variables in determining loan performance (and a good customer vs a bad customer). Therefore, we can start to build an introductory profile of good and bad customers as seen in this table: 
 
-## **Summary **
+##**Summary **
 
 * Good Loans/Customers	
 
@@ -176,7 +176,7 @@ Higher loan amount, longer loan time-period, may reside in Brno or North Maravia
 Lower loan amount, lower loan time-period, may reside in Prague region, are middle-aged, may also hold a credit card issued by the bank, greater amounts in total order payments, more household-related permanent orders	
 
 
-## **References **
+##**References **
 
 PKDD'99 Discovery Challenge: Guide to the Financial Data Set. 16 Jan. 2018, lisp.vse.cz/pkdd99/berka.htm.
 
